@@ -33,4 +33,6 @@ break;
 
 }
 alert(answerArray.join(" "));
-alert("thanks very you find all " + answerArray);
+alert("thanks very you find all " + generate
+     
+ );
